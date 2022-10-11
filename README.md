@@ -19,6 +19,23 @@ If you are contributing to the repository, make sure to fork this repo, and then
 git clone https://github.com/<your-username>/growthtop-docs.git
 ```
 
+## Links
+
+### **Frontend repository**
+
+(https://github.com/akjj004/growthtop-frontend)
+
+### **Backend repository**
+
+(https://github.com/akjj004/growthtop-backend)
+
+#### **Technology used**
+
+> - Front `ReactJs`
+> - Back `TBA`
+> - DB `MongoDB`
+> - Host `Firebase`
+
 ## License
 
 This software is licensed under the MIT license. See [LICENSE](./LICENSE) for full disclosure.
