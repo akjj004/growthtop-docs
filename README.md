@@ -18,3 +18,11 @@ If you are contributing to the repository, make sure to fork this repo, and then
 ```bash
 git clone https://github.com/<your-username>/growthtop-docs.git
 ```
+
+## License
+
+This software is licensed under the MIT license. See [LICENSE](./LICENSE) for full disclosure.
+
+© 2022
+
+<hr/>
